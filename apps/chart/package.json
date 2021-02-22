@@ -108,6 +108,7 @@
     "@babel/preset-typescript": "^7.7.4",
     "@storybook/addon-knobs": "^5.3.18",
     "@storybook/html": "^5.2.8",
+    "@types/dompurify": "^2.2.1",
     "@types/jest": "^24.0.23",
     "@typescript-eslint/eslint-plugin": "^2.10.0",
     "@typescript-eslint/parser": "^2.10.0",
@@ -137,5 +138,8 @@
     "webpack-cli": "^3.3.10",
     "webpack-dev-server": "^3.9.0",
     "webpack-merge": "^5.3.0"
+  },
+  "dependencies": {
+    "dompurify": "^2.2.6"
   }
 }
